@@ -73,8 +73,8 @@ for alpha=0:0.5:100
  q=q+1;
 end
 plot(alpha1,errorrate_test,alpha1,errorrate_train)
-title(' Plots of training and test error rates versus ¦Á')
-xlabel(' ¦Á')
+title(' Plots of training and test error rates versus Â¦Ã')
+xlabel(' Â¦Ã')
 ylabel('errorrate')
 legend('errorrate-test','errorrate-train')
 testerror=[errorrate_test(3),errorrate_test(21),errorrate_test(201)]
