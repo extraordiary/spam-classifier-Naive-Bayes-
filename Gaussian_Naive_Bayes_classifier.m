@@ -1,2 +1,2 @@
-classifier2log
-classifier2Z
+Gaussian_Naive_Bayes_classifier_log
+Gaussian_Naive_Bayes_classifier_Z
